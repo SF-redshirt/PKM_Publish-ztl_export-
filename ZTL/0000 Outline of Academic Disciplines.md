@@ -18,7 +18,7 @@ Wikipedia Entry
 
 I use the OAD as the answer to the question [[5331.001 How should I organize my Personal Knowledge?]]
 
->Note: ⧗- [[2024-04-07]] 11:22:11 --  Currently I have 5 major areas in my [[5331 Personal Knowledge Management (PKM)]]:
+>Note: ⧗- [[2024-04-07]] 11:22:11 --  Currently I have 5 major areas in my [5331 Personal Knowledge Management (PKM)](5331%20Personal%20Knowledge%20Management%20%28PKM%29.md):
 - [1000 Humanities](1000%20Humanities.md)
 - [2000 Social Science](2000%20Social%20Science.md)
 - [3000 Natural Science](3000%20Natural%20Science.md)
