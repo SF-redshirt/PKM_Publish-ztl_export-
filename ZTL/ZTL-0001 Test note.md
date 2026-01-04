@@ -7,4 +7,4 @@ id: "0001"
 This is a test note for GitHub repo.
 
 Links to:
-- [ZTL-2113](ZTL/ZTL-2113.md)
+- [ZTL-2113](ZTL-2113.md)
