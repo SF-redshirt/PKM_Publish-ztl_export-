@@ -7,4 +7,4 @@ id: "0001"
 This is a test note for GitHub repo.
 
 Links to:
-- [[Selection]]
+- [Selection](Selection.md)
